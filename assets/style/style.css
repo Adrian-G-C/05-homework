@@ -58,21 +58,6 @@ textarea {
   transition: all 0.3s ease-in-out;
 }
 
-.past .description,
-.past .saveBtn {
-  background-color: #d3d3d3;
-}
-
-.present .description,
-.present .saveBtn {
-  background-color: #ff6961;
-}
-
-.future .description,
-.future .saveBtn {
-  background-color: #77dd77;
-}
-
 #currentTime {
   font-size: 20px;
 }
