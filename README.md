@@ -19,8 +19,8 @@ Bootcamp excersises along with help from classmates.
 
 ## Links
 
-Deployed App - 
-GitHub Repo - 
+Deployed App - https://adrian-g-c.github.io/05-homework/
+GitHub Repo - https://github.com/Adrian-G-C/05-homework
 
 ## Screenshot 
 
